@@ -21,13 +21,13 @@ This is a simple turn-based game inspired by chess, built with Node.js, Express,
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/your-repository-name.git
+    git clone [https://github.com/yourusername/your-repository-name.git](https://github.com/VedantVatsa/Vedant_Vatsa_21BCE1172.git)
     ```
 
 2. Navigate to the root folder:
 
     ```bash
-    cd your-repository-name
+    cd Vedant_Vatsa_21BCE1172
     ```
 
 3. Install the dependencies:
